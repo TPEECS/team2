@@ -5,8 +5,9 @@
 * “Can be demonstrated today” refers more to a proof-of-concept prototype kind of thing or practical deployment / commercialization?
 We found it hard to differentiate theme 1 from theme 2, so we decided to merge them.
 
-Approximate computing 101: What is the definition of approximate computing? Computing is approximate to begin with; digital computations in an analog world. What are the boundaries between stochastic, probabilistic, approximate? This is more of a terminology question.
+Aside - Approximate computing 101: What is the definition of approximate computing? Computing is approximate to begin with; digital computations in an analog world. What are the boundaries between stochastic, probabilistic, approximate? This is more of a terminology question.
 
+## Main discussion
 How can we quantify the impact and success of approximate computing? By the extent of its adoption. Adoption implies success and accelerates advances in the field – how do we achieve that? (the whole discussion ended up trying to answer this question)
 * Approximate computing should be demonstrated as a holistic approach – need to provide a systematic way to guide approximate designs (guidelines and tools) to avoid repeating ad hoc attempts. But metrics are very application-dependent / domain-specific, can we generalize? Maybe if we manage to provide frameworks that guarantees maximum performance degradation by X%. Still the same problem, how is “performance” defined across different domains? 
 * For end clients, the only important metric is accuracy. Energy is something that only the system designers / service providers care about. This gap is a boundary in adoption.
